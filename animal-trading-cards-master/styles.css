@@ -1,0 +1,37 @@
+html {
+    font-family: times new roman
+}
+
+#card {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid;
+    box-shadow: 2px 5px rgba(119, 101, 101, 0.3);
+}
+
+.title {
+    font-weight: bold;
+}
+
+.picture {
+    width: 300px;
+}
+
+#cardinformation {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid
+}
+
+.favfact {
+    font-style: italic;
+}
+
+.list {
+    list-style: none;
+    padding: 0px;
+}
+
+.labels {
+    font-weight: bold;
+}
